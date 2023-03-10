@@ -1,1 +1,1 @@
-web:python3 -m TelegramBot 
+web: python3 -m TelegramBot 
